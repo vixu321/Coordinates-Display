@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576786287 source:c:\users\vixu1\desktop\koordynaty\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+
